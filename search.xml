@@ -4,6 +4,9 @@
     <title><![CDATA[菜鸟]]></title>
     <url>%2F2017%2F05%2F10%2FXiaoCao%2F</url>
     <content type="text"><![CDATA[菜鸟起飞第一步 代码:12var a=0;console.log(a); 超链接:我是超链接 插入图片:]]></content>
+      <categories>
+        <category>html</category>
+      </categories>
       <tags>
         <tag>前端工具</tag>
         <tag>Markdown</tag>
